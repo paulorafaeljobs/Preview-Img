@@ -1,0 +1,5 @@
+:root {--color-padrao:  rgb(50, 99, 231);}
+.flexbox{display: flex;flex-wrap: wrap;max-width: 300px;margin:auto;text-align: center;}
+.imgUpload{object-fit: cover; width:70px;height: 70px;border: 1px solid var(--color-padrao); border-radius: 50px;margin: 3px;}
+.buttonX{width:20px;height: 20px;border-radius: 10px;border: none;display: none;background-color: var(--color-padrao);color: white;}
+.ButtonCadastrar{width: 90%;height: 40px;margin: 10px;border: none;}
